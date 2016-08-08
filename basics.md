@@ -68,7 +68,7 @@
 [wiki](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 
 <p class="verse">
-**Kernel** the central component of most operating systems.<br  />
+<strong>Kernel</strong> the central component of most operating systems.<br  />
 The kernel is a computer program that constitutes the central core of a computer's operating system. It has complete control over everything that occurs in the system. As such, it is the first program loaded on startup, and then manages the remainder of the startup, as well as input/output requests from software, translating them into data processing instructions for the central processing unit. It is also responsible for managing memory, and for managing and communicating with computing peripherals, like printers, speakers, etc.<br  />
 The kernel is a fundamental part of a modern computer's operating system.<br  />
 </p>
