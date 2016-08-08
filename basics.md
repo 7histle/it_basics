@@ -78,7 +78,7 @@ The kernel is a fundamental part of a modern computer's operating system.<br  />
 [wiki](https://en.wikipedia.org/wiki/Graphical_user_interface)
 
 <p class="verse">
-In computer science, a graphical user interface (GUI), is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs) which require commands to be typed on a computer keyboard.<br  />
+In computer science, a graphical user interface (<strong>GUI</strong>), is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs) which require commands to be typed on a computer keyboard.<br  />
 </p>
 
 ## API<a id="orgheadline6"></a>
