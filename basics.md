@@ -68,7 +68,7 @@
 [wiki](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 
 <p class="verse">
-****Kernel**** the central component of most operating systems.<br  />
+**Kernel** the central component of most operating systems.<br  />
 The kernel is a computer program that constitutes the central core of a computer's operating system. It has complete control over everything that occurs in the system. As such, it is the first program loaded on startup, and then manages the remainder of the startup, as well as input/output requests from software, translating them into data processing instructions for the central processing unit. It is also responsible for managing memory, and for managing and communicating with computing peripherals, like printers, speakers, etc.<br  />
 The kernel is a fundamental part of a modern computer's operating system.<br  />
 </p>
@@ -88,5 +88,5 @@ In computer science, a graphical user interface (GUI), is a type of user interfa
 [wiki](https://en.wikipedia.org/wiki/Application_programming_interface)
 
 <p class="verse">
-Just as a graphical user interface (****GUI****) makes it easier for people to use programs, application programming interfaces (****API****) make it easier for developers to use certain technologies in building applications. By abstracting the underlying implementation and only exposing objects or actions the developer needs, an API reduces the cognitive load on a programmer. While a graphical interface for an email client might provide a user with a button that performs all the steps for fetching and highlighting new emails, an API for file input/output might give the developer a function that copies a file from one location to another without requiring that the developer understand the file system operations occurring behind the scenes.<br  />
+Just as a graphical user interface (**GUI**) makes it easier for people to use programs, application programming interfaces (**API**) make it easier for developers to use certain technologies in building applications. By abstracting the underlying implementation and only exposing objects or actions the developer needs, an API reduces the cognitive load on a programmer. While a graphical interface for an email client might provide a user with a button that performs all the steps for fetching and highlighting new emails, an API for file input/output might give the developer a function that copies a file from one location to another without requiring that the developer understand the file system operations occurring behind the scenes.<br  />
 </p>
