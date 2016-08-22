@@ -23,8 +23,8 @@
    -  Объяснить тебе
 
 * Home Work
-** Old HomeWork
-*** HW
+* HomeWork
+
 [[https://commotionwireless.net/docs/cck/networking/learn-networking-basics/][Learn
 Networking Basics]]
 
@@ -53,6 +53,14 @@ Beginners]]
 
 * Network Basics
 ** MAC addr
+[[https://en.wikipedia.org/wiki/MAC_address][wiki]]
+#+begin_verse
+A *media access control address* (MAC address) of a computer is a unique identifier assigned to network interfaces for communications at the data link layer of a network segment.
+
+On broadcast networks, such as Ethernet, the MAC address uniquely identifies each node on that segment and allows frames to be marked for specific hosts. It thus forms the basis of most of the link layer (OSI Layer 2) networking upon which upper layer protocols rely to produce complex, functioning networks. 
+
+#+end_verse
+
 ** IP addr
 
 ** Network hardware
