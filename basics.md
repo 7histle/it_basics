@@ -3,36 +3,29 @@
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#orgheadline1">1. Документ</a></li>
-<li><a href="#orgheadline4">2. Home Work</a>
+<li><a href="#orgheadline2">2. Home Work</a></li>
+<li><a href="#orgheadline3">3. HomeWork</a></li>
+<li><a href="#orgheadline11">4. Network Basics</a>
 <ul>
-<li><a href="#orgheadline3">2.1. Old HomeWork</a>
+<li><a href="#orgheadline4">4.1. MAC addr</a></li>
+<li><a href="#orgheadline5">4.2. IP addr</a></li>
+<li><a href="#orgheadline10">4.3. Network hardware</a>
 <ul>
-<li><a href="#orgheadline2">2.1.1. HW</a></li>
+<li><a href="#orgheadline6">4.3.1. NIC</a></li>
+<li><a href="#orgheadline7">4.3.2. Hub</a></li>
+<li><a href="#orgheadline8">4.3.3. Switch</a></li>
+<li><a href="#orgheadline9">4.3.4. Router</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgheadline12">3. Network Basics</a>
+<li><a href="#orgheadline16">5. Some Terms</a>
 <ul>
-<li><a href="#orgheadline5">3.1. MAC addr</a></li>
-<li><a href="#orgheadline6">3.2. IP addr</a></li>
-<li><a href="#orgheadline11">3.3. Network hardware</a>
+<li><a href="#orgheadline12">5.1. Kernel</a></li>
+<li><a href="#orgheadline13">5.2. GUI</a></li>
+<li><a href="#orgheadline15">5.3. API</a>
 <ul>
-<li><a href="#orgheadline7">3.3.1. NIC</a></li>
-<li><a href="#orgheadline8">3.3.2. Hub</a></li>
-<li><a href="#orgheadline9">3.3.3. Switch</a></li>
-<li><a href="#orgheadline10">3.3.4. Router</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgheadline17">4. Some Terms</a>
-<ul>
-<li><a href="#orgheadline13">4.1. Kernel</a></li>
-<li><a href="#orgheadline14">4.2. GUI</a></li>
-<li><a href="#orgheadline16">4.3. API</a>
-<ul>
-<li><a href="#orgheadline15">4.3.1. Purpose</a></li>
+<li><a href="#orgheadline14">5.3.1. Purpose</a></li>
 </ul>
 </li>
 </ul>
@@ -60,11 +53,9 @@
     -   Проработать его самим
     -   Объяснить тебе
 
-# Home Work<a id="orgheadline4"></a>
+# Home Work<a id="orgheadline2"></a>
 
-## Old HomeWork<a id="orgheadline3"></a>
-
-### HW<a id="orgheadline2"></a>
+# HomeWork<a id="orgheadline3"></a>
 
 [Learn
 Networking Basics](https://commotionwireless.net/docs/cck/networking/learn-networking-basics/)
@@ -91,25 +82,34 @@ Beginners](https://www.youtube.com/watch?v=xpXhudbsrr8)
 
 Подготовить вопросы.
 
-# Network Basics<a id="orgheadline12"></a>
+# Network Basics<a id="orgheadline11"></a>
 
-## MAC addr<a id="orgheadline5"></a>
+## MAC addr<a id="orgheadline4"></a>
 
-## IP addr<a id="orgheadline6"></a>
+[wiki](https://en.wikipedia.org/wiki/MAC_address)
 
-## Network hardware<a id="orgheadline11"></a>
+<p class="verse">
+A **media access control address** (MAC address) of a computer is a unique identifier assigned to network interfaces for communications at the data link layer of a network segment.<br  />
+<br  />
+On broadcast networks, such as Ethernet, the MAC address uniquely identifies each node on that segment and allows frames to be marked for specific hosts. It thus forms the basis of most of the link layer (OSI Layer 2) networking upon which upper layer protocols rely to produce complex, functioning networks.<br  />
+<br  />
+</p>
 
-### NIC<a id="orgheadline7"></a>
+## IP addr<a id="orgheadline5"></a>
 
-### Hub<a id="orgheadline8"></a>
+## Network hardware<a id="orgheadline10"></a>
 
-### Switch<a id="orgheadline9"></a>
+### NIC<a id="orgheadline6"></a>
 
-### Router<a id="orgheadline10"></a>
+### Hub<a id="orgheadline7"></a>
 
-# Some Terms<a id="orgheadline17"></a>
+### Switch<a id="orgheadline8"></a>
 
-## Kernel<a id="orgheadline13"></a>
+### Router<a id="orgheadline9"></a>
+
+# Some Terms<a id="orgheadline16"></a>
+
+## Kernel<a id="orgheadline12"></a>
 
 [wiki](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 
@@ -119,7 +119,7 @@ The kernel is a computer program that constitutes the central core of a computer
 The kernel is a fundamental part of a modern computer's operating system.<br  />
 </p>
 
-## GUI<a id="orgheadline14"></a>
+## GUI<a id="orgheadline13"></a>
 
 [wiki](https://en.wikipedia.org/wiki/Graphical_user_interface)
 
@@ -127,9 +127,9 @@ The kernel is a fundamental part of a modern computer's operating system.<br  />
 In computer science, a graphical user interface (<strong>GUI</strong>), is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs) which require commands to be typed on a computer keyboard.<br  />
 </p>
 
-## API<a id="orgheadline16"></a>
+## API<a id="orgheadline15"></a>
 
-### Purpose<a id="orgheadline15"></a>
+### Purpose<a id="orgheadline14"></a>
 
 [wiki](https://en.wikipedia.org/wiki/Application_programming_interface)
 
